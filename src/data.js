@@ -19,7 +19,7 @@ export const social = [
 		url: 'https://www.facebook.com/redculturambientalista',
 		image: facebook,
 		name: 'facebook',
-		color: '#3b5999',
+		color: '#1877f2',
 	},
 	{
 		id: 3,
